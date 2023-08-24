@@ -24,15 +24,6 @@ Le projet Sae-21-Creation-de-réseaux-Informatiques a pour objectif la création
 
 En complétant ces étapes, le projet aboutira à la création d'un réseau opérationnel et fiable. Chaque étape sera documentée de manière détaillée pour faciliter la gestion future du réseau.
 
-## Utilisation
-
-1. Suivez les étapes et les instructions documentées pour chaque phase du projet.
-2. Configurez et paramétrez les éléments du réseau en fonction des spécifications fournies.
-
-## Contributions
-
-Les contributions à ce projet sont les bienvenues. Si vous avez des suggestions, des améliorations ou de nouvelles idées, n'hésitez pas à soumettre une demande d'extraction.
-
 ## Auteur
 
 Ce projet a été réalisé par Ruben.
